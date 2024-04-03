@@ -33,7 +33,7 @@ var removeDuplicates = function(nums) {
 };
 
 
-//creamy best solution ive found on leetcode
+//creamy best solution ive found on leetcode using fast and slow pointers
 
     // let c = 0
     // for (let i = 0; i < nums.length; i++) { 
